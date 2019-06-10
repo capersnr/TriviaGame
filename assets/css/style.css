@@ -1,0 +1,17 @@
+body{
+    background-color: brown;
+}
+.banner{
+    background-color: gold;
+    margin: 0px 0px 0px 0px;
+    border: double thick navy;
+    height: 420px;
+}
+.title{
+    text-align: center;
+    text-emphasis: bold;
+}
+  
+.right{
+      float: right;
+  } 
