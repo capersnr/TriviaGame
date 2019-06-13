@@ -15,3 +15,7 @@ body{
 .right{
       float: right;
   } 
+
+  #show-number{
+      color: white;
+  }
